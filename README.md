@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyobamiMichael
 - 👀 I’m interested in software engineering
-- 🌱 Java Script,Flutter, MongoDb, AWS, Python, TensorFlow, Numpy, Pandas
+- 🌱 Java Script,Flutter, MongoDB, AWS, Python, TensorFlow, Numpy, Pandas
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me on tweeter: @ayobamimichael, linkedin: ayobamimichael, ayobamiwealth@gmail.com
 
