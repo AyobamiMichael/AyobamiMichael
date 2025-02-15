@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyobamiMichael
-- 🌱 Java Script,Flutter, MongoDB, AWS, Python, TensorFlow, Numpy, Pandas
+- 🌱 Python, TensorFlow, PyTorch Numpy, Pandas,  Java Script,Flutter, MongoDB, AWS,
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me on tweeter: @ayobamimichael, linkedin: ayobamimichael, ayobamiwealth@gmail.com
 
